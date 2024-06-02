@@ -1,3 +1,6 @@
+# Lesson 3: Applying SQL in Python
+# 2. Advanced Data Analysis in Gym Management System
+
 import sqlite3
 from sqlite3 import Error
 
