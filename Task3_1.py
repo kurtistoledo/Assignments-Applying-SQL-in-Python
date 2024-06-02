@@ -1,4 +1,5 @@
-
+# Lesson 3: Applying SQL in Python
+# 1. Gym Database Management with Python and SQL
 
 import sqlite3
 from sqlite3 import Error
